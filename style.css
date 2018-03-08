@@ -3,6 +3,23 @@
 	margin: auto;
 }
 
+#container{
+	text-align: center;
+	background-color: black;
+	width: 280px;
+	margin: auto;
+}
+
+a:link{
+	color: white;
+}
+a:visited{
+	color: white;
+}
+a:hover{
+	color: red;
+}
+
 body {
 	background-color: black;
 	color: white;
