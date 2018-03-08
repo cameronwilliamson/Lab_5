@@ -4,28 +4,38 @@
 }
 
 body {
-	background-color: slategrey;
+	background-color: black;
+	color: white;
 }
 
-
+	
 
 h1 {
 	font-family: 'Play', Helvetica, sans-serif;
 	text-align: center;
+	font-size: 2.5em;
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
+}
 
-
+th{
+	font-size: 1.8em;
 }
 
 th,td {
 	font-family:  'Titillium Web', Helvetica, sans-serif;
 	text-align: center;
-	border: 1px solid black;
+	border: 1px solid white;
 	height: 40px;
+}
+th.rotate {
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform:rotate(-45deg);
+    overflow : visible;
 }
 
 span{
