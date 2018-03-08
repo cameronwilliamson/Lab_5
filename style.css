@@ -1,3 +1,8 @@
+#wrapper {
+	width: 960px;
+	margin: auto;
+}
+
 body {
 	background-color: slategrey;
 }
@@ -21,5 +26,9 @@ th,td {
 	text-align: center;
 	border: 1px solid black;
 	height: 40px;
-	white-space: pre-line;
+}
+
+span{
+	width: 100%;
+	display: block;
 }
