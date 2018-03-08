@@ -6,7 +6,7 @@
 #container{
 	text-align: center;
 	background-color: black;
-	width: 280px;
+	width: 350px;
 	margin: auto;
 }
 
@@ -21,6 +21,7 @@ a:hover{
 }
 
 body {
+	font-family:  'Titillium Web', Helvetica, sans-serif;
 	background-color: black;
 	color: white;
 	background-image: url(images/stars.jpeg);
@@ -44,7 +45,6 @@ th{
 }
 
 th,td {
-	font-family:  'Titillium Web', Helvetica, sans-serif;
 	text-align: center;
 	border: 1px solid white;
 	height: 40px;
