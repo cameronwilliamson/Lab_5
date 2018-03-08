@@ -3,6 +3,13 @@
 	margin: auto;
 }
 
+#head-container{
+	text-align: center;
+	background-color: black;
+	width: 500px;
+	margin: auto;
+}
+
 #container{
 	text-align: center;
 	background-color: black;
@@ -40,15 +47,16 @@ table {
     background-color: black;
 }
 
-th{
-	font-size: 1.8em;
-}
-
 th,td {
 	text-align: center;
 	border: 1px solid white;
 	height: 40px;
 }
+
+th{
+	font-size: 1.8em;
+}
+
 th.rotate {
     -ms-transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
