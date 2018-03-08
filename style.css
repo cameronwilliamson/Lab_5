@@ -5,15 +5,22 @@
 
 #head-container{
 	text-align: center;
-	background-color: black;
-	width: 500px;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 430px;
 	margin: auto;
 }
 
-#container{
+#subhead-container{
 	text-align: center;
-	background-color: black;
-	width: 350px;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 275px;
+	margin: auto;
+}
+
+#footer-container{
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 275px;
 	margin: auto;
 }
 
